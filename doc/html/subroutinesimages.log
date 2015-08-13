@@ -1,0 +1,1103 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2011.8.3)  5 DEC 2014 16:03
+entering extended mode
+**./subroutinesimages.tex
+(./subroutinesimages.tex
+LaTeX2e <2008/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+
+(/sw2/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(/sw2/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/sw2/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+) (/tmp/Healpix_3.20/doc/TeX/healpix.sty
+Package: healpix 
+Package: healpix macros (A.J. Banday, M. Bartelmann)
+Document format
+(/sw2/share/texmf-dist/tex/latex/a4wide/a4wide.sty
+Package: a4wide 1994/08/30
+(/sw2/share/texmf-dist/tex/latex/ntgclass/a4.sty
+Package: a4 2004/04/15 v1.2g A4 based page layout
+)) (/sw2/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+(/sw2/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/sw2/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+(/sw2/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) (/sw2/share/texmf-dist/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+(/sw2/share/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+) (/sw2/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
+) (/tmp/Healpix_3.20/doc/TeX/hpxversion.tex) (/tmp/Healpix_3.20/doc/TeX/idlvers
+ion.tex) (/tmp/Healpix_3.20/doc/TeX/gdlversion.tex)
+\bigicon=\skip52
+\smallicon=\skip53
+\blocksize=\skip54
+\c@creq=\count87
+\c@savecreq=\count88
+) (/sw2/share/texmf-dist/tex/latex/hyperref/xr-hyper.sty
+Package: xr-hyper 2000/03/22 v6.00beta4 eXternal References (DPC)
+) (/sw2/share/texmf-local/tex/latex/html/html.sty (/sw2/share/texmf-dist/tex/la
+tex/hyperref_bk/hyperref.sty
+Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
+\@linkdim=\dimen105
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+(/sw2/share/texmf-dist/tex/latex/hyperref_bk/pd1enc.def
+File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
+) (/sw2/share/texmf-dist/tex/latex/hyperref_bk/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive and teTeX
+)
+Package hyperref Info: Hyper figures OFF on input line 1880.
+Package hyperref Info: Link nesting OFF on input line 1885.
+Package hyperref Info: Hyper index ON on input line 1888.
+Package hyperref Info: Plain pages ON on input line 1893.
+Package hyperref Info: Backreferencing OFF on input line 1900.
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2004.
+(/sw2/share/texmf-local/tex/latex/html/url.sty
+Package: url 1999/03/02  ver 1.4  Verb mode for urls, email addresses, and file
+ names
+)
+LaTeX Info: Redefining \url on input line 2143.
+\Fld@menulength=\count91
+\Field@Width=\dimen106
+\Fld@charsize=\dimen107
+\Choice@toks=\toks15
+\Field@toks=\toks16
+Package hyperref Info: Hyper figures OFF on input line 2618.
+Package hyperref Info: Link nesting OFF on input line 2623.
+Package hyperref Info: Hyper index ON on input line 2626.
+Package hyperref Info: backreferencing OFF on input line 2633.
+Package hyperref Info: Link coloring OFF on input line 2638.
+\c@Item=\count92
+\c@Hfootnote=\count93
+)
+*hyperref using default driver hdvips*
+(/sw2/share/texmf-dist/tex/latex/hyperref_bk/hdvips.def
+File: hdvips.def 2003/11/30 v6.74m Hyperref driver for dvips
+(/sw2/share/texmf-dist/tex/latex/hyperref_bk/pdfmark.def
+File: pdfmark.def 2003/11/30 v6.74m Hyperref definitions for pdfmark specials
+\pdf@docset=\toks17
+\pdf@box=\box26
+\pdf@toks=\toks18
+\pdf@defaulttoks=\toks19
+\Fld@listcount=\count94
+\@outlinefile=\write3
+))
+Package: html 1999/07/19 v1.38 hypertext commands for latex2html (nd, hws, rrm)
+
+\c@lpart=\count95
+\c@lchapter=\count96
+\c@chapter=\count97
+\c@lsection=\count98
+\c@lsubsection=\count99
+\c@lsubsubsection=\count100
+\c@lparagraph=\count101
+\c@lsubparagraph=\count102
+\c@lsubsubparagraph=\count103
+\ptrfile=\write4
+) (/sw2/share/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+) (/sw2/share/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+(/sw2/share/texmf-dist/tex/latex/tools/array.sty
+Package: array 2003/12/17 v2.4a Tabular extension package (FMi)
+\col@sep=\dimen108
+\extrarowheight=\dimen109
+\NC@list=\toks20
+\extratabsurround=\skip55
+\backup@length=\skip56
+)
+\TX@col@width=\dimen110
+\TX@old@table=\dimen111
+\TX@old@col=\dimen112
+\TX@target=\dimen113
+\TX@delta=\dimen114
+\TX@cols=\count104
+\TX@ftn=\toks21
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
+Package xr Info: IMPORTING LABELS FROM idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM alm_i2t_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM alm_t2i_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM alm2fits_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM ang2vec_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM angulardistance_idl.aux on input line 75
+.
+Package xr Info: IMPORTING LABELS FROM azeqview_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM beam2bl_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM bin_llcl_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM bl2beam_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM bl2fits_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM cartcursor_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM cartview_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM change_polcconv_idl.aux on input line 75
+.
+Package xr Info: IMPORTING LABELS FROM cl2fits_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM convert_oldhpx2cmbfast_idl.aux on input 
+line 75.
+Package xr Info: IMPORTING LABELS FROM euler_matrix_new_idl.aux on input line 7
+5.
+Package xr Info: IMPORTING LABELS FROM fits2alm_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM fits2cl_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM gaussbeam_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM getdisc_ring_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM getsize_fits_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM gnomcursor_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM gnomview_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM healpix_doc_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM healpixwindow_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM hpx2dm_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM hpx2gs_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM ialteralm_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM ianafast_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM index2lm_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM init_healpix_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM iprocess_mask_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM ismoothing_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM isynfast_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM lm2index_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM median_filter_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM mollcursor_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM mollview_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM neighbours_nest_idl.aux on input line 75
+.
+Package xr Info: IMPORTING LABELS FROM neighbours_ring_idl.aux on input line 75
+.
+Package xr Info: IMPORTING LABELS FROM npix2nside_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM nside2npix_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM nside2ntemplates_idl.aux on input line 7
+5.
+Package xr Info: IMPORTING LABELS FROM orthcursor_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM orthview_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM pix_tools_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM planck_colors_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM query_disc_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM query_polygon_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM query_strip_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM query_triangle_idl.aux on input line 75.
+
+Package xr Info: IMPORTING LABELS FROM read_fits_cut4_idl.aux on input line 75.
+
+Package xr Info: IMPORTING LABELS FROM read_fits_map_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM read_fits_s_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM read_tqu_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM remove_dipole_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM reorder_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM rotate_coord_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM same_shape_pixels_xxx_idl.aux on input l
+ine 75.
+Package xr Info: IMPORTING LABELS FROM template_pixel_xxx_idl.aux on input line
+ 75.
+Package xr Info: IMPORTING LABELS FROM ud_grade_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM vec2ang_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM write_fits_cut4_idl.aux on input line 75
+.
+Package xr Info: IMPORTING LABELS FROM write_fits_map_idl.aux on input line 75.
+
+Package xr Info: IMPORTING LABELS FROM write_fits_sb_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM write_tqu_idl.aux on input line 75.
+Package xr Info: IMPORTING LABELS FROM facilities.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM alteralm.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM anafast.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM hotspot.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM map2gif.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM median_filter.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM plmgen.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM process_mask.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM sky_ng_sim.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM smoothing.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM synfast.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM ud_grade.aux on input line 76.
+Package xr Info: IMPORTING LABELS FROM fac_appendix.aux on input line 76.
+(/sw2/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+(/sw2/share/texmf-dist/tex/latex/graphics/color.cfg
+File: color.cfg 2005/02/03 v1.3 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 125.
+(/sw2/share/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)) (/sw2/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2004/02/05 v1.0d Input encoding file
+(/sw2/share/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2004/02/05 v1.0d Input encoding file
+))
+\sizebox=\box27
+\lthtmlwrite=\write5
+(./subroutinesimages.aux (/tmp/Healpix_3.20/doc/TeX/add_card.aux) (/tmp/Healpix
+_3.20/doc/TeX/add_dipole.aux) (/tmp/Healpix_3.20/doc/TeX/alm2cl.aux) (/tmp/Heal
+pix_3.20/doc/TeX/alm2map.aux) (/tmp/Healpix_3.20/doc/TeX/alm2map_der.aux) (/tmp
+/Healpix_3.20/doc/TeX/alm2map_spin.aux) (/tmp/Healpix_3.20/doc/TeX/alms2fits.au
+x) (/tmp/Healpix_3.20/doc/TeX/alter_alm.aux) (/tmp/Healpix_3.20/doc/TeX/ang2vec
+.aux) (/tmp/Healpix_3.20/doc/TeX/angdist.aux) (/tmp/Healpix_3.20/doc/TeX/assert
+.aux) (/tmp/Healpix_3.20/doc/TeX/brag_openmp.aux) (/tmp/Healpix_3.20/doc/TeX/co
+mplex_fft.aux) (/tmp/Healpix_3.20/doc/TeX/compute_statistics.aux) (/tmp/Healpix
+_3.20/doc/TeX/concatnl.aux) (/tmp/Healpix_3.20/doc/TeX/convert_inplace.aux) (/t
+mp/Healpix_3.20/doc/TeX/convert_nest2ring.aux) (/tmp/Healpix_3.20/doc/TeX/conve
+rt_ring2nest.aux) (/tmp/Healpix_3.20/doc/TeX/coordsys2euler_zyz.aux) (/tmp/Heal
+pix_3.20/doc/TeX/create_alm.aux) (/tmp/Healpix_3.20/doc/TeX/del_card.aux) (/tmp
+/Healpix_3.20/doc/TeX/dist2holes_nest.aux) (/tmp/Healpix_3.20/doc/TeX/dump_alms
+.aux) (/tmp/Healpix_3.20/doc/TeX/fill_holes_nest.aux) (/tmp/Healpix_3.20/doc/Te
+X/fits2alms.aux) (/tmp/Healpix_3.20/doc/TeX/fits2cl.aux) (/tmp/Healpix_3.20/doc
+/TeX/gaussbeam.aux) (/tmp/Healpix_3.20/doc/TeX/generate_beam.aux) (/tmp/Healpix
+_3.20/doc/TeX/get_card.aux) (/tmp/Healpix_3.20/doc/TeX/get_healpix_xxx_dir.aux)
+(/tmp/Healpix_3.20/doc/TeX/getargument.aux) (/tmp/Healpix_3.20/doc/TeX/getenvir
+onment.aux) (/tmp/Healpix_3.20/doc/TeX/getdisc_ring.aux) (/tmp/Healpix_3.20/doc
+/TeX/getnumext_fits.aux) (/tmp/Healpix_3.20/doc/TeX/getsize_fits.aux) (/tmp/Hea
+lpix_3.20/doc/TeX/healpix_modules.aux) (/tmp/Healpix_3.20/doc/TeX/healpix_types
+.aux) (/tmp/Healpix_3.20/doc/TeX/in_ring.aux) (/tmp/Healpix_3.20/doc/TeX/input_
+map.aux) (/tmp/Healpix_3.20/doc/TeX/input_tod.aux) (/tmp/Healpix_3.20/doc/TeX/l
+ong_intrinsic.aux) (/tmp/Healpix_3.20/doc/TeX/map2alm.aux) (/tmp/Healpix_3.20/d
+oc/TeX/map2alm_iterative.aux) (/tmp/Healpix_3.20/doc/TeX/map2alm_spin.aux) (/tm
+p/Healpix_3.20/doc/TeX/maskborder_nest.aux) (/tmp/Healpix_3.20/doc/TeX/medfiltm
+ap.aux) (/tmp/Healpix_3.20/doc/TeX/median.aux) (/tmp/Healpix_3.20/doc/TeX/merge
+_headers.aux) (/tmp/Healpix_3.20/doc/TeX/mpi_alm_tools.aux) (/tmp/Healpix_3.20/
+doc/TeX/mpi_alm2map.aux) (/tmp/Healpix_3.20/doc/TeX/mpi_alm2map_simple.aux) (/t
+mp/Healpix_3.20/doc/TeX/mpi_alm2map_slave.aux) (/tmp/Healpix_3.20/doc/TeX/mpi_c
+leanup_alm_tools.aux) (/tmp/Healpix_3.20/doc/TeX/mpi_initialize_alm_tools.aux) 
+(/tmp/Healpix_3.20/doc/TeX/mpi_map2alm.aux) (/tmp/Healpix_3.20/doc/TeX/mpi_map2
+alm_simple.aux) (/tmp/Healpix_3.20/doc/TeX/mpi_map2alm_slave.aux) (/tmp/Healpix
+_3.20/doc/TeX/narguments.aux) (/tmp/Healpix_3.20/doc/TeX/neighbours_nest.aux) (
+/tmp/Healpix_3.20/doc/TeX/npix2nside.aux) (/tmp/Healpix_3.20/doc/TeX/nside2npix
+.aux) (/tmp/Healpix_3.20/doc/TeX/nside2ntemplates.aux) (/tmp/Healpix_3.20/doc/T
+eX/number_of_alms.aux) (/tmp/Healpix_3.20/doc/TeX/output_map.aux) (/tmp/Healpix
+_3.20/doc/TeX/parse_xxx.aux) (/tmp/Healpix_3.20/doc/TeX/pixel_window.aux) (/tmp
+/Healpix_3.20/doc/TeX/pix_tools.aux) (/tmp/Healpix_3.20/doc/TeX/planck_rng.aux)
+(/tmp/Healpix_3.20/doc/TeX/plm_gen.aux) (/tmp/Healpix_3.20/doc/TeX/query_disc.a
+ux) (/tmp/Healpix_3.20/doc/TeX/query_polygon.aux) (/tmp/Healpix_3.20/doc/TeX/qu
+ery_strip.aux) (/tmp/Healpix_3.20/doc/TeX/query_triangle.aux) (/tmp/Healpix_3.2
+0/doc/TeX/rand_gauss.aux) (/tmp/Healpix_3.20/doc/TeX/rand_init.aux) (/tmp/Healp
+ix_3.20/doc/TeX/rand_uni.aux) (/tmp/Healpix_3.20/doc/TeX/read_asctab.aux) (/tmp
+/Healpix_3.20/doc/TeX/read_bintab.aux) (/tmp/Healpix_3.20/doc/TeX/read_conbinta
+b.aux) (/tmp/Healpix_3.20/doc/TeX/read_dbintab.aux) (/tmp/Healpix_3.20/doc/TeX/
+read_fits_cut4.aux) (/tmp/Healpix_3.20/doc/TeX/read_par.aux) (/tmp/Healpix_3.20
+/doc/TeX/real_fft.aux) (/tmp/Healpix_3.20/doc/TeX/remove_dipole.aux) (/tmp/Heal
+pix_3.20/doc/TeX/ring_analysis.aux) (/tmp/Healpix_3.20/doc/TeX/ring_num.aux) (/
+tmp/Healpix_3.20/doc/TeX/ring_synthesis.aux) (/tmp/Healpix_3.20/doc/TeX/rotate_
+alm.aux) (/tmp/Healpix_3.20/doc/TeX/same_shape_pixels_xxx.aux) (/tmp/Healpix_3.
+20/doc/TeX/scan_directories.aux) (/tmp/Healpix_3.20/doc/TeX/size_holes_nest.aux
+) (/tmp/Healpix_3.20/doc/TeX/string.aux) (/tmp/Healpix_3.20/doc/TeX/surface_tri
+angle.aux) (/tmp/Healpix_3.20/doc/TeX/template_pixel_xxx.aux) (/tmp/Healpix_3.2
+0/doc/TeX/udgrade_nest.aux) (/tmp/Healpix_3.20/doc/TeX/udgrade_ring.aux) (/tmp/
+Healpix_3.20/doc/TeX/vec2ang.aux) (/tmp/Healpix_3.20/doc/TeX/vect_prod.aux) (/t
+mp/Healpix_3.20/doc/TeX/write_asctab.aux) (/tmp/Healpix_3.20/doc/TeX/write_bint
+ab.aux) (/tmp/Healpix_3.20/doc/TeX/write_bintabh.aux) (/tmp/Healpix_3.20/doc/Te
+X/write_dbintab.aux) (/tmp/Healpix_3.20/doc/TeX/write_fits_cut4.aux) (/tmp/Heal
+pix_3.20/doc/TeX/write_minimal_header.aux) (/tmp/Healpix_3.20/doc/TeX/write_plm
+.aux) (/tmp/Healpix_3.20/doc/TeX/xcc_v_convert.aux))
+\openout1 = `subroutinesimages.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 185.
+LaTeX Font Info:    ... okay on input line 185.
+Package hyperref Info: Link coloring ON on input line 185.
+(/sw2/share/texmf-dist/tex/latex/hyperref_bk/nameref.sty
+Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
+\c@section@level=\count105
+)
+LaTeX Info: Redefining \ref on input line 185.
+LaTeX Info: Redefining \pageref on input line 185.
+\openout3 = `subroutinesimages.out'.
+
+
+latex2htmlLength hsize=349.0pt
+
+latex2htmlLength vsize=688.0pt
+
+latex2htmlLength hoffset=0.0pt
+
+latex2htmlLength voffset=0.0pt
+
+latex2htmlLength topmargin=0.0pt
+
+latex2htmlLength topskip=0.00003pt
+
+latex2htmlLength headheight=0.0pt
+
+latex2htmlLength headsep=0.0pt
+
+latex2htmlLength parskip=3.875pt plus 1.03331pt minus 0.5167pt
+
+latex2htmlLength oddsidemargin=0.0pt
+
+latex2htmlLength evensidemargin=0.0pt
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 212.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 212.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 212.
+l2hSize :tex2html_wrap_inline556:8.33331pt::0.0pt::6.38954pt.
+[1
+
+
+
+]
+l2hSize :tex2html_wrap_inline558:7.75pt::0.0pt::7.6833pt.
+[2
+
+
+]
+l2hSize :tex2html_wrap_inline560:8.83331pt::8.83331pt::7.5416pt.
+[3
+
+
+]
+l2hSize :tex2html_wrap_inline562:9.5pt::9.5pt::52.84537pt.
+[4
+
+
+]
+l2hSize :tex2html_wrap_inline566:7.75pt::0.0pt::14.37903pt.
+[5
+
+
+]
+l2hSize :tex2html_wrap_inline570:9.5pt::9.5pt::68.09393pt.
+[6
+
+
+]
+l2hSize :tex2html_wrap_inline580:8.7pt::8.7pt::64.0157pt.
+[7
+
+
+]
+l2hSize :tex2html_wrap_inline588:9.5pt::9.5pt::35.69131pt.
+[8
+
+
+]
+l2hSize :tex2html_wrap_inline590:10.01027pt::10.01027pt::87.6179pt.
+[9
+
+
+]
+l2hSize :tex2html_wrap_inline592:10.01027pt::10.01027pt::45.19144pt.
+[10
+
+
+]
+l2hSize :tex2html_wrap_inline596:7.75pt::0.0pt::-1.41245pt.
+[11
+
+
+]
+l2hSize :tex2html_wrap_inline935:8.7pt::8.7pt::24.71059pt.
+[12
+
+
+]
+l2hSize :tex2html_wrap_inline937:9.5pt::9.5pt::6.58754pt.
+[13
+
+
+]
+l2hSize :tex2html_wrap_inline941:8.7pt::8.7pt::58.14076pt.
+[14
+
+
+]
+l2hSize :tex2html_wrap_inline1050:10.88895pt::10.88895pt::174.98972pt.
+[15
+
+
+]
+l2hSize :tex2html_wrap_inline1082:8.83331pt::8.83331pt::28.56789pt.
+[16
+
+
+]
+l2hSize :tex2html_wrap_inline1254:9.5pt::9.5pt::33.75247pt.
+[17
+
+
+]
+l2hSize :tex2html_wrap_inline1435:9.5pt::9.5pt::114.05844pt.
+[18
+
+
+]
+l2hSize :tex2html_wrap_inline1437:9.5pt::9.5pt::125.37029pt.
+[19
+
+
+]
+l2hSize :tex2html_wrap_inline1439:9.5pt::9.5pt::90.57399pt.
+[20
+
+
+]
+l2hSize :tex2html_wrap_inline1441:10.01027pt::10.01027pt::142.86053pt.
+[21
+
+
+]
+l2hSize :tex2html_wrap_inline1443:12.50008pt::12.50008pt::87.17168pt.
+[22
+
+
+]
+l2hSize :tex2html_wrap_inline1445:10.01027pt::10.01027pt::171.10403pt.
+[23
+
+
+]
+l2hSize :tex2html_wrap_inline1459:8.7pt::8.7pt::26.40262pt.
+[24
+
+
+]
+l2hSize :displaymath1500:27.72227pt::0.0pt::349.0pt.
+[25
+
+
+]
+l2hSize :tex2html_wrap_inline1675:9.5pt::9.5pt::74.52466pt.
+[26
+
+
+]
+l2hSize :tex2html_wrap_indisplay24163:8.25pt::8.25pt::9.72632pt.
+[27
+
+
+]
+l2hSize :tex2html_wrap_inline1683:8.25pt::8.25pt::32.74005pt.
+[28
+
+
+]
+l2hSize :tex2html_wrap_inline1701:10.32137pt::10.32137pt::68.03004pt.
+[29
+
+
+]
+l2hSize :tex2html_wrap_inline1703:10.30006pt::10.30006pt::47.75307pt.
+[30
+
+
+]
+l2hSize :tex2html_wrap_inline1705:9.68808pt::9.68808pt::48.61436pt.
+[31
+
+
+]
+l2hSize :tex2html_wrap_inline1707:9.68808pt::9.68808pt::49.2345pt.
+[32
+
+
+]
+l2hSize :tex2html_wrap_inline2032:9.5pt::9.5pt::78.12305pt.
+[33
+
+
+]
+l2hSize :tex2html_wrap_inline2060:9.5pt::9.5pt::25.01799pt.
+[34
+
+
+]
+l2hSize :tex2html_wrap_inline2068:8.7pt::8.7pt::52.26582pt.
+[35
+
+
+]
+l2hSize :tex2html_wrap_inline2070:8.83331pt::8.83331pt::96.24004pt.
+[36
+
+
+]
+l2hSize :tex2html_wrap_inline2165:9.5pt::9.5pt::27.74623pt.
+[37
+
+
+]
+l2hSize :tex2html_wrap_inline2169:8.83331pt::8.83331pt::71.98393pt.
+[38
+
+
+]
+l2hSize :tex2html_wrap_inline2171:8.83331pt::8.83331pt::70.16101pt.
+[39
+
+
+]
+l2hSize :tex2html_wrap_inline2173:8.33331pt::0.0pt::45.91965pt.
+[40
+
+
+]
+l2hSize :tex2html_wrap_inline2175:9.5pt::9.5pt::29.2664pt.
+[41
+
+
+]
+l2hSize :tex2html_wrap_inline2177:9.5pt::9.5pt::35.14134pt.
+[42
+
+
+]
+l2hSize :tex2html_wrap_inline2245:9.51027pt::0.0pt::27.68057pt.
+[43
+
+
+]
+Overfull \hbox (7.02808pt too wide) in paragraph at lines 510--510
+[]\OT1/cmtt/m/n/12 -------------------------------------- 
+ []
+
+
+Overfull \hbox (7.02808pt too wide) in paragraph at lines 510--510
+\OT1/cmtt/m/n/12 -------------------------------------- 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 510--510
+[]
+ []
+
+l2hSize :tex2html_wrap_inline24489:43.16666pt::43.16666pt::233.90002pt.
+[44
+
+
+]
+l2hSize :tex2html_wrap_inline2607:9.5pt::9.5pt::65.57979pt.
+[45
+
+
+]
+l2hSize :tex2html_wrap_inline2609:9.5pt::9.5pt::93.08107pt.
+[46
+
+
+]
+l2hSize :tex2html_wrap_inline2611:10.01027pt::10.01027pt::130.2807pt.
+[47
+
+
+]
+l2hSize :tex2html_wrap_inline2613:7.75pt::0.0pt::7.69649pt.
+[48
+
+
+]
+l2hSize :tex2html_wrap_inline2615:10.01027pt::10.01027pt::115.27383pt.
+[49
+
+
+]
+l2hSize :tex2html_wrap_inline2617:10.01027pt::10.01027pt::136.79454pt.
+[50
+
+
+]
+l2hSize :tex2html_wrap_inline24604:29.41666pt::29.41666pt::63.18349pt.
+[51
+
+
+]
+l2hSize :tex2html_wrap_inline2777:8.46431pt::8.46431pt::89.4166pt.
+[52
+
+
+]
+l2hSize :tex2html_wrap_inline2779:8.46431pt::8.46431pt::89.4166pt.
+[53
+
+
+]
+l2hSize :tex2html_wrap_inline2868:8.7pt::8.7pt::58.14076pt.
+[54
+
+
+]
+l2hSize :tex2html_wrap_inline3039:8.83331pt::8.83331pt::32.68365pt.
+[55
+
+
+]
+l2hSize :tex2html_wrap_inline3041:8.83331pt::8.83331pt::8.65688pt.
+[56
+
+
+]
+l2hSize :tex2html_wrap_inline3043:8.33331pt::0.0pt::6.38954pt.
+[57
+
+
+]
+l2hSize :tex2html_wrap_inline3045:8.25pt::8.25pt::8.28464pt.
+[58
+
+
+]
+l2hSize :tex2html_wrap_inline3202:8.7pt::8.7pt::30.58553pt.
+[59
+
+
+]
+l2hSize :tex2html_wrap_inline3214:8.83331pt::8.83331pt::50.34932pt.
+[60
+
+
+]
+l2hSize :tex2html_wrap_inline3976:8.83331pt::8.83331pt::43.85107pt.
+[61
+
+
+]
+l2hSize :tex2html_wrap_inline4664:8.25pt::8.25pt::9.92088pt.
+[62
+
+
+]
+l2hSize :tex2html_wrap25276:8.33333pt::2.33333pt::349.0pt.
+[63
+
+
+]
+l2hSize :tex2html_wrap25323:8.33333pt::2.33333pt::349.0pt.
+[64
+
+
+]
+l2hSize :tex2html_wrap_inline4999:10.01027pt::10.01027pt::87.43436pt.
+[65
+
+
+]
+l2hSize :tex2html_wrap_inline5001:10.01027pt::10.01027pt::91.68442pt.
+[66
+
+
+]
+l2hSize :tex2html_wrap_inline5003:9.51027pt::0.0pt::58.80946pt.
+[67
+
+
+]
+l2hSize :tex2html_wrap_inline5005:9.51027pt::0.0pt::63.05952pt.
+[68
+
+
+]
+l2hSize :tex2html_wrap25358:8.33333pt::2.33333pt::349.0pt.
+[69
+
+
+]
+l2hSize :tex2html_wrap_inline5007:9.5pt::9.5pt::19.43318pt.
+[70
+
+
+]
+l2hSize :tex2html_wrap_inline5009:9.5pt::9.5pt::19.43318pt.
+[71
+
+
+]
+l2hSize :tex2html_wrap_inline5013:7.75pt::0.0pt::13.55824pt.
+[72
+
+
+]
+l2hSize :tex2html_wrap_inline5015:7.75pt::0.0pt::13.55824pt.
+[73
+
+
+]
+l2hSize :tex2html_wrap_inline5017:11.33661pt::11.33661pt::16.4625pt.
+[74
+
+
+]
+l2hSize :tex2html_wrap_inline5019:8.25pt::8.25pt::65.88997pt.
+[75
+
+
+]
+l2hSize :tex2html_wrap_inline5021:11.33661pt::11.33661pt::35.30815pt.
+[76
+
+
+]
+l2hSize :tex2html_wrap_inline5025:9.5pt::9.5pt::31.18306pt.
+[77
+
+
+]
+l2hSize :tex2html_wrap_inline5027:9.5pt::9.5pt::31.18306pt.
+[78
+
+
+]
+l2hSize :tex2html_wrap25418:8.33333pt::2.33333pt::349.0pt.
+[79
+
+
+]
+l2hSize :tex2html_wrap_inline5029:10.01027pt::10.01027pt::67.22606pt.
+[80
+
+
+]
+l2hSize :tex2html_wrap_inline5161:8.83331pt::8.83331pt::7.5416pt.
+[81
+
+
+]
+l2hSize :tex2html_wrap_inline5167:8.7pt::8.7pt::43.25217pt.
+[82
+
+
+]
+l2hSize :tex2html_wrap_inline5169:8.83331pt::8.83331pt::29.2219pt.
+[83
+
+
+]
+l2hSize :tex2html_wrap_inline5272:8.25pt::8.25pt::9.92088pt.
+[84
+
+
+]
+l2hSize :tex2html_wrap_inline5647:9.5pt::9.5pt::135.51175pt.
+[85
+
+
+]
+l2hSize :tex2html_wrap_inline5669:8.0075pt::0.0pt::17.08746pt.
+[86
+
+
+]
+l2hSize :displaymath5741:20.50009pt::0.0pt::349.0pt.
+[87
+
+
+]
+l2hSize :tex2html_wrap_inline5866:8.7pt::8.7pt::77.81584pt.
+[88
+
+
+]
+l2hSize :tex2html_wrap_inline6410:10.01027pt::10.01027pt::79.69814pt.
+[89
+
+
+]
+l2hSize :tex2html_wrap_inline7070:9.5pt::9.5pt::132.2479pt.
+[90
+
+
+]
+l2hSize :tex2html_wrap_inline7603:8.7pt::8.7pt::22.0661pt.
+[91
+
+
+]
+l2hSize :tex2html_wrap_inline7611:10.01027pt::10.01027pt::59.65668pt.
+[92
+
+
+]
+l2hSize :tex2html_wrap_inline7613:13.17227pt::13.17227pt::89.61935pt.
+[93
+
+
+]
+l2hSize :tex2html_wrap_inline7727:10.01027pt::10.01027pt::128.33649pt.
+[94
+
+
+]
+l2hSize :tex2html_wrap_inline7729:10.68889pt::10.68889pt::78.49446pt.
+[95
+
+
+]
+l2hSize :displaymath7828:26.3495pt::0.0pt::349.0pt.
+[96
+
+
+]
+l2hSize :tex2html_wrap_inline7834:8.7pt::8.7pt::46.43312pt.
+[97
+
+
+]
+l2hSize :tex2html_wrap_inline8296:9.5pt::9.5pt::33.95901pt.
+[98
+
+
+]
+l2hSize :tex2html_wrap_inline8300:12.63332pt::12.63332pt::25.43633pt.
+[99
+
+
+]
+l2hSize :tex2html_wrap_inline8304:12.63332pt::12.63332pt::91.43173pt.
+[100
+
+
+]
+l2hSize :tex2html_wrap_inline8310:8.83331pt::8.83331pt::66.40509pt.
+[101
+
+
+]
+l2hSize :tex2html_wrap_inline8584:8.7pt::8.7pt::42.60765pt.
+[102
+
+
+]
+l2hSize :tex2html_wrap26477:8.33333pt::2.33333pt::349.0pt.
+[103
+
+
+]
+l2hSize :tex2html_wrap_inline8872:8.83331pt::8.83331pt::18.0922pt.
+[104
+
+
+]
+l2hSize :tex2html_wrap_inline8874:10.41026pt::10.41026pt::114.87614pt.
+[105
+
+
+]
+l2hSize :tex2html_wrap_inline8902:9.5pt::9.5pt::35.80623pt.
+[106
+
+
+]
+l2hSize :tex2html_wrap_inline8904:9.5pt::9.5pt::35.80623pt.
+[107
+
+
+]
+l2hSize :tex2html_wrap_inline8906:9.5pt::9.5pt::35.80623pt.
+[108
+
+
+]
+l2hSize :tex2html_wrap_inline8908:9.5pt::9.5pt::35.80623pt.
+[109
+
+
+]
+l2hSize :tex2html_wrap_inline8910:9.5pt::9.5pt::35.80623pt.
+[110
+
+
+]
+l2hSize :tex2html_wrap_inline8912:9.5pt::9.5pt::35.80623pt.
+[111
+
+
+]
+l2hSize :tex2html_wrap_inline9244:9.5pt::9.5pt::19.43318pt.
+[112
+
+
+]
+l2hSize :tex2html_wrap_inline9246:9.5pt::9.5pt::25.30812pt.
+[113
+
+
+]
+l2hSize :tex2html_wrap_inline9501:10.01027pt::10.01027pt::92.01785pt.
+[114
+
+
+]
+l2hSize :tex2html_wrap_inline9695:8.7pt::8.7pt::52.26582pt.
+[115
+
+
+]
+l2hSize :tex2html_wrap_inline9929:8.7pt::8.7pt::14.81172pt.
+[116
+
+
+]
+l2hSize :tex2html_wrap_inline10027:11.63661pt::11.63661pt::62.79906pt.
+[117
+
+
+]
+l2hSize :displaymath10220:36.201pt::0.0pt::349.0pt.
+[118
+
+
+]
+l2hSize :displaymath10225:29.18893pt::0.0pt::349.0pt.
+[119
+
+
+]
+l2hSize :displaymath10228:29.18893pt::0.0pt::349.0pt.
+[120
+
+
+]
+l2hSize :tex2html_wrap_inline10301:8.19998pt::0.0pt::9.9209pt.
+[121
+
+
+]
+l2hSize :tex2html_wrap_inline10309:9.5pt::9.5pt::161.15631pt.
+[122
+
+
+]
+l2hSize :displaymath10232:34.64545pt::0.0pt::349.0pt.
+[123
+
+
+]
+l2hSize :tex2html_wrap_inline10450:7.75pt::0.0pt::22.25394pt.
+[124
+
+
+]
+l2hSize :tex2html_wrap_inline10739:8.83331pt::8.83331pt::40.17096pt.
+[125
+
+
+]
+l2hSize :tex2html_wrap_inline10741:10.01027pt::10.01027pt::20.40717pt.
+[126
+
+
+]
+l2hSize :tex2html_wrap_inline10763:8.83331pt::8.83331pt::90.3651pt.
+[127
+
+
+]
+l2hSize :tex2html_wrap_inline10765:9.5pt::9.5pt::119.83406pt.
+[128
+
+
+]
+l2hSize :tex2html_wrap_indisplay27275:9.5pt::9.5pt::89.94707pt.
+[129
+
+
+]
+l2hSize :tex2html_wrap_indisplay27276:8.25pt::8.25pt::4.50415pt.
+[130
+
+
+]
+l2hSize :tex2html_wrap_indisplay27277:9.5pt::9.5pt::67.33133pt.
+[131
+
+
+]
+l2hSize :tex2html_wrap_indisplay27278:9.5pt::9.5pt::65.14941pt.
+[132
+
+
+]
+l2hSize :tex2html_wrap_indisplay27280:13.78476pt::13.78476pt::126.85109pt.
+[133
+
+
+]
+l2hSize :tex2html_wrap_inline10904:10.68889pt::10.68889pt::61.75208pt.
+[134
+
+
+]
+l2hSize :tex2html_wrap_indisplay27462:9.5pt::9.5pt::65.14941pt.
+[135
+
+
+]
+l2hSize :tex2html_wrap_indisplay27464:13.78476pt::13.78476pt::126.85109pt.
+[136
+
+
+]
+l2hSize :tex2html_wrap_inline11846:8.25pt::8.25pt::12.46259pt.
+[137
+
+
+]
+l2hSize :tex2html_wrap_inline11848:8.25pt::8.25pt::12.46259pt.
+[138
+
+
+]
+l2hSize :tex2html_wrap_inline11850:8.25pt::8.25pt::66.68468pt.
+[139
+
+
+]
+l2hSize :tex2html_wrap_inline12134:7.75pt::0.0pt::36.75392pt.
+[140
+
+
+] (./subroutinesimages.aux) ) 
+Here is how much of TeX's memory you used:
+ 3889 strings out of 94501
+ 59146 string characters out of 1175975
+ 162729 words of memory out of 1500000
+ 6636 multiletter control sequences out of 10000+50000
+ 7473 words of font info for 27 fonts, out of 1200000 for 2000
+ 580 hyphenation exceptions out of 8191
+ 32i,6n,45p,356b,248s stack positions out of 5000i,500n,6000p,200000b,5000s
+
+Output written on subroutinesimages.dvi (140 pages, 96604 bytes).

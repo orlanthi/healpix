@@ -1,0 +1,220 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.1//EN">
+
+<!--Converted with LaTeX2HTML 2002-2-1 (1.71)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Older Changes</TITLE>
+<META NAME="description" CONTENT="Older Changes">
+<META NAME="keywords" CONTENT="facilities">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META NAME="Generator" CONTENT="LaTeX2HTML v2002-2-1">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="facilities.css">
+
+<LINK REL="next" HREF="facilitiesnode5.htm">
+<LINK REL="previous" HREF="facilitiesnode3.htm">
+<LINK REL="up" HREF="facilities.htm">
+<LINK REL="next" HREF="facilitiesnode5.htm">
+</HEAD>
+
+<BODY >
+
+<DIV CLASS="navigation"><body text="#000000" bgcolor="#FFFFFA">
+<!--Navigation Panel-->
+<A NAME="tex2html115"
+  HREF="facilitiesnode3.htm">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="prev.png"></A> 
+<A NAME="tex2html121"
+  HREF="facilities.htm">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up.png"></A> 
+<A NAME="tex2html125"
+  HREF="facilitiesnode5.htm">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next.png"></A> 
+<A NAME="tex2html123"
+  HREF="facilitiesnode1.htm">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A>  
+<BR>
+<B> Previous:</B> <A NAME="tex2html116"
+  HREF="facilitiesnode3.htm">Changes between releases 3.00</A>
+
+<B>Up:</B> <A NAME="tex2html122"
+  HREF="facilities.htm">HEALPix/F90 facilities</A>
+
+<B> Next:</B> <A NAME="tex2html126"
+  HREF="facilitiesnode5.htm">alteralm</A>
+<B> Top:</B> <a href="main.htm">Main Page</a></DIV>
+<!--End of Navigation Panel-->
+<!--Table of Child-Links-->
+<A NAME="CHILD_LINKS"><STRONG>Subsections</STRONG></A>
+
+<UL CLASS="ChildLinks">
+<LI><A NAME="tex2html127"
+  HREF="facilitiesnode4.htm#SECTION00041000000000000000">Changes between releases 2.20 and 3.00</A>
+<LI><A NAME="tex2html128"
+  HREF="facilitiesnode4.htm#SECTION00042000000000000000">Changes between releases 2.14 and 2.20</A>
+<LI><A NAME="tex2html129"
+  HREF="facilitiesnode4.htm#SECTION00043000000000000000">Changes between releases 2.13 and 2.14</A>
+<LI><A NAME="tex2html130"
+  HREF="facilitiesnode4.htm#SECTION00044000000000000000">Changes between releases 2.0 and 2.1</A>
+<LI><A NAME="tex2html131"
+  HREF="facilitiesnode4.htm#SECTION00045000000000000000">Changes between releases 1.2 and 2.0</A>
+</UL>
+<!--End of Table of Child-Links-->
+<HR>
+
+<H1><A NAME="SECTION00040000000000000000">
+Older Changes</A>
+</H1>
+<H2><A NAME="SECTION00041000000000000000">
+Changes between releases 2.20 and 3.00</A>
+</H2><DL COMPACT><DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ all <EM>input</EM> FITS files can now be compressed (with a 
+<TT>.gz</TT>, <TT>.Z</TT>, <TT>.z</TT>, or <TT>.zip</TT> 
+extension) and/or remotely located (with a <TT>ftp://</TT> or <TT>http://</TT> prefix).
+<EM>Version 3.14 (March 2009) or newer of CFITSIO is required for <b>HEALPix</b> 3.0.</EM>
+	<DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ introduction of <A HREF="facilitiesnode11.htm#fac:process_mask"><TT>process_mask</TT></A> 
+facility to compute the angular distance of valid
+pixels to the closest invalid pixels for a input binary mask,
+	<DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ <A HREF="facilitiesnode12.htm#fac:sky_ng_sim"><TT>sky_ng_sim</TT></A> now allows the computation
+of the spatial derivatives of the non Gaussian map being produced, and the
+output of the <SPAN CLASS="MATH"><I>a</I><SUB><I>lm</I></SUB></SPAN> coefficients of that map,
+	<DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ <A HREF="facilitiesnode6.htm#fac:anafast"><TT>anafast</TT></A> now allows the
+pro/down-grading of the input mask to match the resolution of the map(s) being
+analyzed.
+</DL>
+<P>
+
+<H2><A NAME="SECTION00042000000000000000">
+Changes between releases 2.14 and
+2.20</A>
+</H2><DL COMPACT><DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ faster 
+<A HREF="facilitiesnode14.htm#fac:synfast"><TT>synfast</TT></A>,
+<A HREF="facilitiesnode6.htm#fac:anafast"><TT>anafast</TT></A>,
+<A HREF="facilitiesnode13.htm#fac:smoothing"><TT>smoothing</TT></A> thanks to 
+<A NAME="tex2html11"
+  HREF="http://libpsht.sourceforge.net/"><TT>libpsht</TT></A>
+routines. 
+	<DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ most facilities can handle maps with <!-- MATH
+ ${N_{\rm side}}> 8192$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="106" HEIGHT="35" ALIGN="MIDDLE" BORDER="0"
+ SRC="facilitiesimg1.png"
+ ALT="${N_{\rm side}}&gt; 8192$"></SPAN>, ie more than
+805,306,368 pixels.
+</DL><SMALL CLASS="FOOTNOTESIZE">
+See
+<A NAME="tex2html12"
+  HREF="subroutines.htm">``F90 Subroutines Overview''</A>
+for details.
+</SMALL>
+<P>
+
+<H2><A NAME="SECTION00043000000000000000">
+Changes between releases 2.13 and
+2.14</A>
+</H2><DL COMPACT><DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ In <A HREF="facilitiesnode14.htm#fac:synfast"><TT>synfast</TT></A> facility, a numerical bug affecting the accuracy of the Stokes parameter derivatives 
+<!-- MATH
+ $\partial X/\partial\theta$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="60" HEIGHT="37" ALIGN="MIDDLE" BORDER="0"
+ SRC="facilitiesimg2.png"
+ ALT="$\partial X/\partial\theta$"></SPAN>, 
+<!-- MATH
+ $\partial^2 X/(\partial\theta\partial\phi\sin\theta)$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="143" HEIGHT="39" ALIGN="MIDDLE" BORDER="0"
+ SRC="facilitiesimg3.png"
+ ALT="$\partial^2 X/(\partial\theta\partial\phi\sin\theta)$"></SPAN>, 
+<!-- MATH
+ $\partial^2 X/\partial \theta^2$
+ -->
+<SPAN CLASS="MATH"><IMG
+ WIDTH="76" HEIGHT="39" ALIGN="MIDDLE" BORDER="0"
+ SRC="facilitiesimg4.png"
+ ALT="$\partial^2 X/\partial \theta^2$"></SPAN>, 
+for <SPAN CLASS="MATH"><I>X</I>=<I>Q</I>,<I>U</I></SPAN> has been corrected. See <A HREF="facilitiesnode16.htm#fac:sec:bug_synder">this appendix</A> for details.
+</DL>
+<P>
+
+<H2><A NAME="SECTION00044000000000000000">
+Changes between releases 2.0 and
+2.1</A>
+</H2><DL COMPACT><DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ The <A HREF="facilitiesnode6.htm#fac:anafast"><TT>anafast</TT></A> facility can now compute the cross-correlations of two different
+maps. 
+<DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ The <A HREF="facilitiesnode12.htm#fac:sky_ng_sim"><TT>sky_ng_sim</TT></A> facility (Rocha et al, 2005), to produce non-Gaussian CMB temperature maps,
+has been added.
+</DL>
+<P>
+
+<H2><A NAME="SECTION00045000000000000000">
+Changes between releases 1.2 and 2.0</A>
+</H2><DL COMPACT><DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ faster implementation of <SPAN CLASS="MATH"><I>a</I><SUB><I>lm</I></SUB></SPAN> related facilities, generalization of
+  OpenMP parallelization, and availability of MPI parallelized routines (see
+  mpi_* routines in <B>Fortran90 Subroutines Overview</B> document).
+<DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ introduction of <A HREF="facilitiesnode5.htm#fac:alteralm"><TT>alteralm</TT></A> facility to modify and/or rotate the spherical
+  harmonics coefficients <SPAN CLASS="MATH"><I>a</I><SUB><I>lm</I></SUB></SPAN> and greater flexibility for constraining
+  <SPAN CLASS="MATH"><I>a</I><SUB><I>lm</I></SUB></SPAN> in <TT>synfast</TT>
+<DT><DD><IMG WIDTH="14" HEIGHT="14" SRC="greenball.png" ALT="*">
+ single and double precision implementation of most facilities (see <B>Input and Output Precision</B>
+  page&nbsp;<A HREF="facilitiesnode2.htm#page:ioprec"><IMG  ALIGN="BOTTOM" BORDER="1" ALT="[*]" SRC="crossref.png"></A>)
+</DL><SMALL CLASS="FOOTNOTESIZE">
+</SMALL>
+<P>
+
+<P>
+<SMALL CLASS="FOOTNOTESIZE"></SMALL>
+<P>
+
+<P>
+<SMALL CLASS="FOOTNOTESIZE">
+ </SMALL>
+<DIV CLASS="navigation"><HR>
+<!--Navigation Panel-->
+<A NAME="tex2html115"
+  HREF="facilitiesnode3.htm">
+<IMG WIDTH="63" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="previous" SRC="prev.png"></A> 
+<A NAME="tex2html121"
+  HREF="facilities.htm">
+<IMG WIDTH="26" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="up" SRC="up.png"></A> 
+<A NAME="tex2html125"
+  HREF="facilitiesnode5.htm">
+<IMG WIDTH="37" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="next" SRC="next.png"></A> 
+<A NAME="tex2html123"
+  HREF="facilitiesnode1.htm">
+<IMG WIDTH="65" HEIGHT="24" ALIGN="BOTTOM" BORDER="0" ALT="contents" SRC="contents.png"></A>  
+<BR>
+<B> Previous:</B> <A NAME="tex2html116"
+  HREF="facilitiesnode3.htm">Changes between releases 3.00</A>
+
+<B>Up:</B> <A NAME="tex2html122"
+  HREF="facilities.htm">HEALPix/F90 facilities</A>
+
+<B> Next:</B> <A NAME="tex2html126"
+  HREF="facilitiesnode5.htm">alteralm</A>
+<B> Top:</B> <a href="main.htm">Main Page</a></DIV>
+<!--End of Navigation Panel-->
+<ADDRESS>
+Version 3.20, 2014-12-05
+</ADDRESS>
+</BODY>
+</HTML>
